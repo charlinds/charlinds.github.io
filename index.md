@@ -2,7 +2,6 @@
 layout: default
 ---
 <br>
-<br>
 
 <p align="center">
 Hello.
