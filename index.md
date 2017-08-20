@@ -9,14 +9,7 @@ My name is Charlotte.
 
 I am a nineteen-year-old student from London, currently living New York.
 
-## [](#header-2)Header 2
-
-> This is a blockquote following a header.
->
-> When something is important enough, you do it even if the odds are not in your favor.
-
-
-### Experience:
+## [](#header-2)Experience:
 
 
 ![](https://assets-cdn.github.com/images/icons/emoji/octocat.png)
@@ -46,3 +39,9 @@ I am a nineteen-year-old student from London, currently living New York.
       - Consulted patients about possible treatment concerns using data and personal experience.
       - Attended daily meetings with NYU surgeons, doctors, nurses, and administrators to discuss hospital and patient progress.
       - Sterilized surgical and exam kits for multiple units and set up rooms for patients.
+
+
+## [](#header-3)For More...
+[Visit my GitHub repo](https://www.github.com/charlinds)
+
+[Visit my LinkedIn profile](https://www.linkedin.com/in/charlotte-lindsay/)
