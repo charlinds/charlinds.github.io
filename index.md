@@ -2,17 +2,12 @@
 layout: default
 ---
 
-Text can be **bold**, _italic_, or ~~strikethrough~~.
+Hello.
+My name is Charlotte.
 
-[Link to another page](another-page).
+# [](#header-1)About Me
 
-There should be whitespace between paragraphs.
-
-There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
-
-# [](#header-1)Header 1
-
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
+I am a nineteen-year-old student from London, currently living New York.
 
 ## [](#header-2)Header 2
 
@@ -20,104 +15,34 @@ This is a normal paragraph following a header. GitHub is a code hosting platform
 >
 > When something is important enough, you do it even if the odds are not in your favor.
 
-### [](#header-3)Header 3
 
-```js
-// Javascript code with syntax highlighting.
-var fun = function lang(l) {
-  dateformat.i18n = require('./lang/' + l)
-  return true;
-}
-```
+### Experience:
 
-```ruby
-# Ruby code with syntax highlighting
-GitHubPages::Dependencies.gems.each do |gem, version|
-  s.add_dependency(gem, "= #{version}")
-end
-```
-
-#### [](#header-4)Header 4
-
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-
-##### [](#header-5)Header 5
-
-1.  This is an ordered list following a header.
-2.  This is an ordered list following a header.
-3.  This is an ordered list following a header.
-
-###### [](#header-6)Header 6
-
-| head1        | head two          | three |
-|:-------------|:------------------|:------|
-| ok           | good swedish fish | nice  |
-| out of stock | good and plenty   | nice  |
-| ok           | good `oreos`      | hmm   |
-| ok           | good `zoute` drop | yumm  |
-
-### There's a horizontal rule below this.
-
-* * *
-
-### Here is an unordered list:
-
-*   Item foo
-*   Item bar
-*   Item baz
-*   Item zip
-
-### And an ordered list:
-
-1.  Item one
-1.  Item two
-1.  Item three
-1.  Item four
-
-### And a nested list:
-
-- level 1 item
-  - level 2 item
-  - level 2 item
-    - level 3 item
-    - level 3 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-
-### Small image
 
 ![](https://assets-cdn.github.com/images/icons/emoji/octocat.png)
+- Akin Gump Strauss Hauer & Feld
+  - Litigation Intern
+    - Performed case research for partners and associates in the New York office as well as in international offices.
+    - Updated 5,000+ entries for the company’s international alumni database and wrote company newsletter, which is circulated across twenty offices worldwide.
+    - Created presentations on SEC Filings for clients and on Legal Bluebook citations for incoming paralegals. 
+    - Acted as a key witness for the winning side in a mock trial for the summer associates.
 
-### Large image
 
-![](https://guides.github.com/activities/hello-world/branching.png)
+![](https://assets-cdn.github.com/images/icons/emoji/octocat.png)
+- Google, Inc.
+  - CodeU Participant
+    - Participated in an invite-online program run by senior software engineers at Google.
+    - Worked with a partner to create a chat app using Java 7.
+    - Invited to visit Google’s flagship office in Mountain View for my contributions to the project.
 
+  - Computer Science Summer Institute Participant
+    - Participated in an intensive computer science program where I learned HTML, CSS, Python, and JavaScript.
+    - Completed a final project that implemented APIs from Google and YouTube to create a uniquely personal music listening experience (project link: v5.emoodji-full.appspot.com).
+    
 
-### Definition lists can be used with HTML syntax.
-
-<dl>
-<dt>Name</dt>
-<dd>Godzilla</dd>
-<dt>Born</dt>
-<dd>1952</dd>
-<dt>Birthplace</dt>
-<dd>Japan</dd>
-<dt>Color</dt>
-<dd>Green</dd>
-</dl>
-
-```
-Long, single-line code blocks should not wrap. They should horizontally scroll if they are too long. This line should be long enough to demonstrate this.
-```
-
-```
-The final element.
-```
+![](https://assets-cdn.github.com/images/icons/emoji/octocat.png)
+- NYU Langone Institute of Reconstructive Plastic Surgery
+  - Summer Intern
+      - Consulted patients about possible treatment concerns using data and personal experience.
+      - Attended daily meetings with NYU surgeons, doctors, nurses, and administrators to discuss hospital and patient progress.
+      - Sterilized surgical and exam kits for multiple units and set up rooms for patients.
