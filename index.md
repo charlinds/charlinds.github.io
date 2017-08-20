@@ -12,7 +12,7 @@ I am a nineteen-year-old student from London, currently living New York.
 ## [](#header-2)Experience:
 
 
-![](https://static1.squarespace.com/static/510308b7e4b065d4a1c23cc9/t/5105e844e4b00ee3050e6c56/1359341637132/Akin+Gump.png)
+![](https://www.akingump.com/images/content/4/1/v2/41127.jpg)
 - Akin Gump Strauss Hauer & Feld
   - Litigation Intern
     - Performed case research for partners and associates in the New York office as well as in international offices.
