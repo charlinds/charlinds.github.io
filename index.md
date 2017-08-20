@@ -10,7 +10,7 @@ My name is Charlotte.
 
 # [](#header-1)About Me
 
-I am a nineteen-year-old student from London, currently living New York.
+I am a nineteen-year-old student from London, currently living in Manhattan.
 
 ## [](#header-2)Experience:
 
