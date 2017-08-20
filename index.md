@@ -12,7 +12,7 @@ I am a nineteen-year-old student from London, currently living New York.
 ## [](#header-2)Experience:
 
 
-![](https://assets-cdn.github.com/images/icons/emoji/octocat.png)
+![](https://static1.squarespace.com/static/510308b7e4b065d4a1c23cc9/t/5105e844e4b00ee3050e6c56/1359341637132/Akin+Gump.png)
 - Akin Gump Strauss Hauer & Feld
   - Litigation Intern
     - Performed case research for partners and associates in the New York office as well as in international offices.
@@ -21,7 +21,7 @@ I am a nineteen-year-old student from London, currently living New York.
     - Acted as a key witness for the winning side in a mock trial for the summer associates.
 
 
-![](https://assets-cdn.github.com/images/icons/emoji/octocat.png)
+![](https://cdn4.iconfinder.com/data/icons/new-google-logo-2015/400/new-google-favicon-128.png)
 - Google, Inc.
   - CodeU Participant
     - Participated in an invite-online program run by senior software engineers at Google.
@@ -30,10 +30,10 @@ I am a nineteen-year-old student from London, currently living New York.
 
   - Computer Science Summer Institute Participant
     - Participated in an intensive computer science program where I learned HTML, CSS, Python, and JavaScript.
-    - Completed a final project that implemented APIs from Google and YouTube to create a uniquely personal music listening experience (project link: v5.emoodji-full.appspot.com).
+    - Completed a final project that implemented APIs from Google and YouTube to create a uniquely personal music listening experience.       - Project link: v5.emoodji-full.appspot.com
     
 
-![](https://assets-cdn.github.com/images/icons/emoji/octocat.png)
+![](https://logo.clearbit.com/www.med.nyu.edu)
 - NYU Langone Institute of Reconstructive Plastic Surgery
   - Summer Intern
       - Consulted patients about possible treatment concerns using data and personal experience.
