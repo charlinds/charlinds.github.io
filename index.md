@@ -1,9 +1,10 @@
 ---
 layout: default
 ---
-
+<p align="center">
 Hello.
 My name is Charlotte.
+</p>
 
 # [](#header-1)About Me
 
