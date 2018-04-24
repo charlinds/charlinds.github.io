@@ -15,7 +15,7 @@ student of government, psychology, and theology, at Georgetown University.
 
 ## [](#header-2)Experience:
 
-![png](creditunion.png)
+![png](guasfcu.png)
 - Georgetown University Alumni and Student Federal Credit Union
   - Risk Analyst
     - Analyze visa disputes and fraud cases on a case-by-case basis using our client central platform
