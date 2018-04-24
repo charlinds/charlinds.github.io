@@ -28,6 +28,7 @@ student of government, psychology, and theology, at Georgetown University.
     - Manage computer hardware and software in the branch
     
 ![png](thehoya.png)
+- The Hoya
   - Staff Writer for The Guide
     - Publish weekly editions for Georgetown’s oldest and largest newspaper
     - Write movie, music, and television reviews as well as D.C. restaurant reviews
