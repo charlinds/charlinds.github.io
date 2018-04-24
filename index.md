@@ -10,9 +10,27 @@ My name is Charlotte.
 
 # [](#header-1)About Me
 
-I am a nineteen-year-old student from London, currently living in Manhattan.
+I am a nineteen-year-old student from London, now living in Manhattan. I am currently based in Washington, D.C. where I am a 
+student of government, psychology, and theology, at Georgetown University.
 
 ## [](#header-2)Experience:
+
+![](https://goo.gl/images/5EGkc4)
+- Georgetown University Alumni and Student Federal Credit Union
+  - Risk Analyst
+    - Analyze visa disputes and fraud cases on a case-by-case basis using our client central platform
+    - Protect the Credit Union's assets by collecting on late loan payments and contacting members with negative accounts
+    - Submit payments on behalf of members enrolled in the credit builder program
+
+  - Information Technology Specialist
+    - Create automation macros to streamline productivity
+    - Maintain GUASFCU’s website and phone application
+    - Manage computer hardware and software in the branch
+    
+![](https://goo.gl/images/jcQDjJ)
+  - Staff Writer for The Guide
+    - Publish weekly editions for Georgetown’s oldest and largest newspaper
+    - Write movie, music, and television reviews as well as D.C. restaurant reviews
 
 
 ![](https://www.akingump.com/images/content/4/1/v2/41127.jpg)
@@ -22,7 +40,6 @@ I am a nineteen-year-old student from London, currently living in Manhattan.
     - Updated 5,000+ entries for the company’s international alumni database and wrote company newsletter, which is circulated across twenty offices worldwide
     - Created presentations on SEC Filings for clients and on Legal Bluebook citations for incoming paralegals 
     - Acted as a key witness for the winning side in a mock trial for the summer associates
-
 
 ![](https://cdn4.iconfinder.com/data/icons/new-google-logo-2015/400/new-google-favicon-128.png)
 - Google, Inc.
