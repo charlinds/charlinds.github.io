@@ -27,7 +27,7 @@ student of government, psychology, and theology, at Georgetown University.
     - Maintain GUASFCU’s website and phone application
     - Manage computer hardware and software in the branch
     
-![png](example.png)
+![png](hoya.png)
   - Staff Writer for The Guide
     - Publish weekly editions for Georgetown’s oldest and largest newspaper
     - Write movie, music, and television reviews as well as D.C. restaurant reviews
