@@ -10,8 +10,7 @@ My name is Charlotte.
 
 # [](#header-1)About Me
 
-I am a nineteen-year-old student from London, now living in Manhattan. I am currently based in Washington, D.C. where I am a 
-student of government, psychology, and theology, at Georgetown University.
+I am a nineteen-year-old student from London, now living in Manhattan. I am currently based in Washington, D.C. where I study government, psychology, and theology at Georgetown University.
 
 ## [](#header-2)Experience:
 
