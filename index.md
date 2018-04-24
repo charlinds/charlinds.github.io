@@ -15,7 +15,7 @@ student of government, psychology, and theology, at Georgetown University.
 
 ## [](#header-2)Experience:
 
-![](https://goo.gl/images/5EGkc4)
+![png](guasfcu.png)
 - Georgetown University Alumni and Student Federal Credit Union
   - Risk Analyst
     - Analyze visa disputes and fraud cases on a case-by-case basis using our client central platform
@@ -27,11 +27,10 @@ student of government, psychology, and theology, at Georgetown University.
     - Maintain GUASFCU’s website and phone application
     - Manage computer hardware and software in the branch
     
-![](https://goo.gl/images/jcQDjJ)
+![png](example.png)
   - Staff Writer for The Guide
     - Publish weekly editions for Georgetown’s oldest and largest newspaper
     - Write movie, music, and television reviews as well as D.C. restaurant reviews
-
 
 ![](https://www.akingump.com/images/content/4/1/v2/41127.jpg)
 - Akin Gump Strauss Hauer & Feld
